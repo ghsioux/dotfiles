@@ -12,7 +12,7 @@ source $ZSH/oh-my-zsh.sh
 # Using pure prompt
 fpath+=($HOME/.zsh/pure)
 autoload -U promptinit; promptinit
-zstyle ':prompt:pure:path' color 051
+zstyle ':prompt:pure:path' color 177
 zstyle :prompt:pure:prompt:success color '#DFAFAF'
 prompt pure
 
