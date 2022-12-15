@@ -34,3 +34,5 @@ git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"
 # fzf
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
+
+echo "Dotfiles installed."
